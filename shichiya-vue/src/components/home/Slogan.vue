@@ -3,7 +3,7 @@
     <el-card class="box-card">
       <div style="font-size: 45px;color: azure;white-space: nowrap">Talk is nothing, show you my code.</div>
       <a href="https://github.com/ShiChiYa7493/ShiChiYa" target="_blank">
-        <img src="../../assets/img/icon/icon6.png" alt="" class="git-link">
+        <img src="/static/img/icon/icon6.png" alt="" class="git-link">
       </a>
     </el-card>
   </div>

@@ -1,11 +1,11 @@
 <template>
     <div class="quick-nav">
-      <img src="../../assets/img/icon/icon2.png" alt="" class="monster">
+      <img src="/static/img/icon/icon2.png" alt="" class="monster">
       <a href="https://github.com/ShiChiYa7493/ShiChiYa" target="_blank">
-        <img src="../../assets/img/icon/icon5.png" alt="" class="readme">
+        <img src="/static/img/icon/icon5.png" alt="" class="readme">
       </a>
-      <img src="../../assets/img/icon/icon7.png" alt="" class="spark">
-      <img src="../../assets/img/icon/logo.png" alt="" class="logo">
+      <img src="/static/img/icon/icon7.png" alt="" class="spark">
+      <img src="/static/img/icon/logo.png" alt="" class="logo">
     </div>
 </template>
 

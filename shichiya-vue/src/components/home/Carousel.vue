@@ -55,18 +55,18 @@ export default {
       items: [{
         id: 1,
         title: 'How2J.cn - Java 全栈学习网站',
-        img: '../../../static/img/carousel/how2j.png',
+        img: '/static/img/carousel/how2j.png',
         link: 'http://how2j.cn?p=50613'},
       {
         id: 2,
         title: 'Vue.js - 渐进式 JavaScript 框架',
-        img: '../../../static/img/carousel/vue.png',
+        img: '/static/img/carousel/vue.png',
         link: 'https://cn.vuejs.org/'
       },
       {
         id: 3,
         title: 'element-ui - 网站快速成型工具',
-        img: '../../../static/img/carousel/element.png',
+        img: '/static/img/carousel/element.png',
         link: 'http://element-cn.eleme.io/#/zh-CN'
       }]
     }
